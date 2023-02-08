@@ -1,0 +1,1 @@
+{"gameName":"PuppyMerge","storeLink":"https://play.google.com/store/apps/details?id=com.toopanda.mergepuppy&hl=en/","imageUrls":["https://archive.org/details/merge-puppy-promo-image"]}
